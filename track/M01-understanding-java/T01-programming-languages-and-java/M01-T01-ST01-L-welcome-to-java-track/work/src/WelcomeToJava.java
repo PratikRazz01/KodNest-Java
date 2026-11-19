@@ -7,7 +7,5 @@ public class WelcomeToJava {
 
         System.out.println("i love you");
 
-        
-
     }
 }
